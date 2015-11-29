@@ -19,6 +19,7 @@ I'll continue to explore topics such as
 
 ![Moonmoon Understands](http://static2.fjcdn.com/comments/Moon+moon+understands+_0b960f6fc905d631849bef2b9d7bbaab.jpg)
 > Moonmoon Understands
+>
 > More than you'd expect him to.
 
 Things I have to do | Things I have finished
