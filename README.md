@@ -17,7 +17,7 @@ I'll continue to explore topics such as
   * Tables
   * Other markdown topics
 
-![Moonmoon Understands](https://www.dropbox.com/s/thzxyjbuq1bjo76/moonmoon.jpg)
+![Moonmoon Understands](http://static2.fjcdn.com/comments/Moon+moon+understands+_0b960f6fc905d631849bef2b9d7bbaab.jpg)
 > Moonmoon Understands
 > More than you'd expect him to.
 
@@ -25,5 +25,6 @@ Things I have to do | Things I have finished
 ------------------- | ----------------------
 Literally everything | I don't know what that is
 Why haven't I finished my project | Fuckfuckfuck
+
 
 @Stompums How do you feel about this README?
